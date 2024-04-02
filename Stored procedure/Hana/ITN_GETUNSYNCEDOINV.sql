@@ -1,0 +1,5 @@
+CREATE PROCEDURE ITN_GETUNSYNCEDOINV
+AS
+BEGIN 
+SELECT T0."DocEntry",T0."DocNum", TO_VARCHAR(T0."DocDate", 'yyyyMMdd') "DocDate", T0."CardName" FROM OINV T0 WHERE T0."U_ITN_Is_Synced" <>'true';
+END;

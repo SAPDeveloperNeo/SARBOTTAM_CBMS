@@ -1,0 +1,12 @@
+﻿[
+  {
+    "enabledObjects": [ "13" ],
+    "billApiUrl": "",
+    "billReturnApiUrl": ""
+  },
+  {
+    "enabledObjects": [ "14" ],
+    "billApiUrl": "",
+    "billReturnApiUrl": ""
+  }
+]

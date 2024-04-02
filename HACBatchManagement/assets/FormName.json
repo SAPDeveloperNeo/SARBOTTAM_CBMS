@@ -1,0 +1,10 @@
+﻿[
+  {
+    "formName": "OIGN",
+    "isEnabled": "true"
+  },
+  {
+    "formName": "OPDN",
+    "isEnabled" :  "false"
+  }
+]

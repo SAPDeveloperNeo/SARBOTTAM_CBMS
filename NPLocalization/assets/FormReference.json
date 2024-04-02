@@ -1,0 +1,241 @@
+﻿[
+  {
+    "formName": "OINV",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ORPC",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ORRR",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ODPO",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "OPCH",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ORIN",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ODPI",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "OFAR",
+    "labelItemReference": "1470000012",
+    "editItemReference": "1470000013",
+    "triggerredOn" :  "1470000028"
+  },
+  {
+    "formName": "OACQ",
+    "labelItemReference": "1470000009",
+    "editItemReference": "1470000010",
+    "triggerredOn" :  "1470000017"
+  },
+  {
+    "formName": "OACD",
+    "labelItemReference": "1470000035",
+    "editItemReference": "1470000036"
+  },
+  {
+    "formName": "ODLN",
+    "labelItemReference": "86",
+    "editItemReference": "46",
+    "triggerredOn" :  "10"
+  },
+  {
+    "formName": "ODPS",
+    "labelItemReference": "31",
+    "editItemReference": "32",
+    "triggerredOn" :  "9"
+  },
+  {
+    "formName": "OMDP",
+    "labelItemReference": "1470000035",
+    "editItemReference": "1470000036",
+    "triggerredOn" :  "1470000017"
+  },
+  {
+    "formName": "OIGE",
+    "labelItemReference": "8",
+    "editItemReference": "7",
+    "triggerredOn": "9"
+  },
+  {
+    "formName": "OIGN",
+    "labelItemReference": "31",
+    "editItemReference": "30",
+    "triggerredOn": "9"
+  },
+  {
+    "formName": "ORPD",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OPDN",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "ORCT",
+    "labelItemReference": "151",
+    "editItemReference": "152",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OIQI",
+    "labelItemReference": "1470000012",
+    "editItemReference": "1470000013",
+    "triggerredOn": "1470000004"
+  },
+  {
+    "formName": "OMRV",
+    "labelItemReference": "22",
+    "editItemReference": "21",
+    "triggerredOn": "9"
+  },
+    {
+        "formName": "OWTR",
+        "labelItemReference": "254000001",
+        "editItemReference": "254000002",
+        "triggerredOn": "14"
+    },
+  {
+    "formName": "OWTQ",
+    "labelItemReference": "1470000099",
+    "editItemReference": "1470000101",
+    "triggerredOn": "14"
+  },
+  {
+    "formName": "OJDT",
+    "labelItemReference": "9",
+    "editItemReference": "7",
+    "triggerredOn": "6"
+  },
+  {
+    "formName": "OIPF",
+    "labelItemReference": "12",
+    "editItemReference": "11",
+    "triggerredOn": "7"
+  },
+  {
+    "formName": "OOPR",
+    "labelItemReference": "146",
+    "editItemReference": "80",
+    "triggerredOn": "31"
+  },
+  {
+    "formName": "OVPM",
+    "labelItemReference": "151",
+    "editItemReference": "152",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OWOR",
+    "labelItemReference": "255000116",
+    "editItemReference": "255000117",
+    "triggerredOn": "24"
+  },
+  {
+    "formName": "OPOR",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OPQT",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OPRQ",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "46"
+  },
+  {
+    "formName": "OIGN",
+    "labelItemReference": "10",
+    "editItemReference": "9",
+    "triggerredOn": "9"
+  },
+  {
+    "formName": "ORDN",
+    "labelItemReference": "86",
+    "editItemReference": "46",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "ORDR",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OQUT",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OPRR",
+    "labelItemReference": "230",
+    "editItemReference": "222",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OIQR",
+    "labelItemReference": "1470000007",
+    "editItemReference": "1470000008",
+    "triggerredOn": "1470000004"
+  },
+  {
+    "formName": "OIQI",
+    "labelItemReference": "1470000007",
+    "editItemReference": "1470000008",
+    "triggerredOn": "1470000004"
+  },
+  {
+    "formName": "OOEI",
+    "labelItemReference": "11",
+    "editItemReference": "10",
+    "triggerredOn": "10"
+  },
+  {
+    "formName": "OIEI",
+    "labelItemReference": "140002082",
+    "editItemReference": "140002083",
+    "triggerredOn": "10"
+  }
+  //{
+  //  "formName": "OIGN",
+  //  "labelItemReference": "22",
+  //  "editItemReference": "21",
+  //  "triggerredOn": "9"
+  //}
+]

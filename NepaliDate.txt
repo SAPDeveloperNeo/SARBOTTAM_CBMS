@@ -1,0 +1,44 @@
+CBMS_CONFIG			CBMS Configuration
+Username			Test_CBMS
+Enabled				false
+Password			test@123
+BillApiUrl			http://103.1.92.174:9050/api/bill
+BillReturnApiUrl	http://103.1.92.174:9050/api/billreturn
+CompanyCode			001
+
+
+ITN_GETBATCHDETAILS
+ITN_GETAPIDETAILS
+ITN_GETUNSYNCEDOINV
+ITN_GETUNSYNCEDORIN
+ITN_OINVSETSYNCSTATUS
+ITN_ORINSETSYNCSTATUS
+ITN_UPDATEPRINTCOUNT
+ITN_GET_INVOICE_DATA_DETAILS
+ITN_POSTING_CREDITMEMO_DATA
+
+
+ITN_NPDate Nepali Date
+Alpha(10)
+
+Marketing Documents
+Payment	-> 	Title
+			Deposit
+Accounting->	Journal Entry Head
+Landed Costs-> 	Title
+oppurtunity
+
+
+ITN_Is_RealTime Is RealTime
+alphanumerical
+text
+
+ITN_Is_Synced Is Synced
+alphanumerical
+text
+
+ITN_Sync_Date Sync Date
+Date
+
+ITN_Print_Count Print Count
+Numric(10)
